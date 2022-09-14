@@ -64,5 +64,5 @@ Here, the required details about each dataset presented in the below table.
 
 # References
 
-The baseline code taken from the git repo [Deep-Adversarial-Decomposition](https://github.com/jiupinjia/Deep-adversarial-decomposition) mentioned in the reference paper
+This repo will work for [ Facial-Demorphing : Extracting Component Faces from a Single Morph](https://arxiv.org/abs/2209.02933v1#:~:text=The%20task%20of%20deducing%20the%20individual%20face%20images,of%20the%20accomplice%20-%20i.e.%2C%20the%20other%20identity.) mentioned in the reference paper.
 
